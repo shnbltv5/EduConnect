@@ -1,0 +1,2 @@
+# Helper files are included by PHP pages, they must not be opened directly
+Require all denied
